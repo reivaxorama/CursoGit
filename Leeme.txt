@@ -1,0 +1,2 @@
+Ejemplo de manejo de versiones con git
+Cambios al archivo
